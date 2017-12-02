@@ -1,0 +1,15 @@
+258
+a:5:{s:8:"template";a:5:{s:9:"index.tpl";b:1;s:10:"header.tpl";b:1;s:10:"errors.tpl";b:1;s:8:"post.tpl";b:1;s:10:"footer.tpl";b:1;}s:6:"config";a:1:{s:12:"english.conf";b:1;}s:9:"timestamp";i:1381890079;s:7:"expires";i:1381933279;s:13:"cache_serials";a:0:{}}<!DOCTYPE html>
+<html>
+<head>
+   <title>Home - Ingvar den vittfarne på nya äventyr</title>
+
+   <link rel="stylesheet" href="http://ilostatic.one.com/iloapp/blog/css/mobile-build.css" type="text/css" media="screen"/>
+
+   <!--<link rel="apple-touch-icon" href="http://ilostatic.one.com/iloapp/blog/"/>-->
+
+   <meta name="robots" content="noindex,noarchive"/>
+   <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+      </head>
+<body><div class="container"><div class="header"><a href="?Home">&#xab; Home</a><h1><a href="?Home">Ingvar den vittfarne på nya äventyr</a></h1></div><div class="content"><div class="post"><h2><a href="?Home&amp;post=14">Efter jobbet</a><a class="category" href="?Home&amp;category=0">Singapore</a></h2><p class="time">Posted by <a href="?Home&amp;user=8">Anders</a> 28 Oct, 2009 15:01:19</p><div class="postContent">I måndags kom jag hem lite tidigare än vanligt. Mötet på DSO slutade strax efter fem och jag fick skjuts hem. Arbetstiden är 8:30-18:00 må-to och 8:30-17:30 fr; vilket innebär 42-timmarsvecka. Lediga lördagar verkar vara ganska nytt här. Väl hemma tog jag tio rundor i en av poolerna och läste sedan en stund i solstolen. Därefter blev det middag i det närmaste <a href="http://en.wikipedia.org/wiki/Hawker_centre" target="_blank">Hawker Centre</a>. Fast det är egentligen ingen riktig Hawker Centre, eftersom den är inomhus. Där blev det japanskt; en bentolåda Teriyaki Salmon som även innehöll kyckling. Väl hemma blev det en dust med datorn, innefattande <a href="http://blog.malaysiancube.com" target="_blank">hotellbokning i Kuala Lumpur</a> och uppkoppling av Skype. Med Skype ringer man billigt!<br/><br/>Idag gick jag direkt till univeristetets pool och tog några länger innan middagsdags vid restaurangen i anslutning till Staff Club. Där blev det torsk med Golden Garlic. Mums. Sedan slank jag upp till Staff Club och Prince Edward Tavern, tog mig några öl och läste igenom Janaínas utkast till licentiatavhandlingen. Det började gå lite trögt när fjärde ölen antingen var halv-full eller halv-tom. <br/><br/>Jag har fått en facebookvänförfrågan från Mátyás Kuti. Han har uppenbarligen skickat förfrågningar till alla kubare han hittat. Intressant. <br/><br/>
+</div><ul class="controls"><li><a href="?NewComment&amp;post=14#comments"class="control">Comments(0)</a></li></ul></div><!-- End of post --></div><div class="paging"></div><div class="footer"><a href="?About">Info</a><a href="?Categories">Categories</a><a href="?Login">Log In</a><a href="?Home&amp;desktop">Non-mobile site</a></div></div><!-- End of container --></body></html>

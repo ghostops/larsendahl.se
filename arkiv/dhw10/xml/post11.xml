@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE post SYSTEM "/usr/lib/onecom-webapps/ilogalleryblog/common/xml/post.dtd">
+<post postid="11">
+<subject>Bilder 3</subject>
+<author authorid="0">Göran</author>
+<timestamp>1290791516</timestamp>
+<category categoryid="0">DHW10</category>
+<tags/>
+<content>&lt;img src="dhw10?ShowFile&amp;amp;temp=true&amp;amp;image=g0-1290791511.jpeg"/&gt;&lt;br/&gt;&lt;br/&gt;
+</content>
+<comments/>
+<images><image imageid="0" galleryindex="1" groupnumber="0"><src>m1290791516.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="1" galleryindex="2" groupnumber="0"><src>m1290791517.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="2" galleryindex="3" groupnumber="0"><src>m1290791518.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="3" galleryindex="4" groupnumber="0"><src>m1290791519.jpg</src><type>jpg</type><width>400</width><height>265</height></image></images>
+<files/>
+</post>

@@ -1,0 +1,60 @@
+243
+a:5:{s:8:"template";a:4:{s:9:"index.tpl";b:1;s:10:"header.tpl";b:1;s:14:"right_menu.tpl";b:1;s:10:"footer.tpl";b:1;}s:6:"config";a:1:{s:12:"swedish.conf";b:1;}s:9:"timestamp";i:1379010475;s:7:"expires";i:1379053675;s:13:"cache_serials";a:0:{}}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title>Dreamhack Winter 09</title><link rel="stylesheet" href="http://ilostatic.one.com/iloapp/blog/css/default.css" type="text/css" media="all"/><!--[if IE 7]><link rel="stylesheet" href="http://ilostatic.one.com/iloapp/blog/css/ie7default.css" type="text/css" media="all"/><![endif]--><link rel="stylesheet" href="http://ilostatic.one.com/iloapp/blog/css/template2_building.css" type="text/css" media="screen"/><!--[if IE 7]><link rel="stylesheet" href="http://ilostatic.one.com/iloapp/blog/css/ie7template2_building.css" type="text/css" media="screen"/><![endif]--><script type="text/javascript" src="http://ilostatic.one.com/iloapp/blog/javascript/blog.js"></script><noscript><base target="_top"/></noscript></head><body><div id="containerDiv"><div id="bannerDiv"><img src="dhw09?ShowFile&image=1259265860.jpg" alt="Dreamhack Winter 09"/></div><!-- End of banner div --><div id="headerDiv" ><div><h1><a href="dhw09?Home">Dreamhack Winter 09</a></h1><h2>DHW09</h2><p><p>Ludvig och Göran på Dreamhack Winter -09</p>
+
+<p> </p>
+<p>**Ludvig och Göran på Dreamhack Winter -10</p>
+<p>Comming Soon!**</p></p></div></div><!-- End of header div --><div id="mainDiv" >
+
+<script type="text/javascript">
+<!--
+// Language-specific text
+var aLangs =
+{
+   nextImage:'Nästa',
+   prevImage:'Föregående',
+   delPost:'Radera'
+};
+
+var posts;
+
+$(document).ready(function()
+{
+   var params =
+   {
+      baseURL: 'http://iloapp.larsendahl.se/blog/dhw09?Home',
+      domShareDiv: document.getElementById('jsShareMenu'),
+      aLangs: aLangs
+   };
+
+   posts = new Posts(params);
+});
+
+//-->
+</script>
+
+<div class="post"><h2><a href="dhw09?Home&amp;post=11">Cataclysm</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 27 nov, 2009 16:11:43</span><br/><p>Blizzards nya expansion Cataclysm presenterades och man kunde testa att skapa en Goblin eller en Worgen och köra i nybörjarlägret. </p>
+<p>När vi kom dill Blizzards monter så var det en tävlig på gång där man skulle ta sig från nybörjarlägre med en Goblin så snabbt som möjligt. Det var 16 tävlande som höll på uppåt en halvtimme innan segraren korades.</p>
+<p>Därefter var det fritt fram och Ludvig testade att skapa och spela med en Goblin.</p>
+<p> </p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=11#comment">Kommentarer(0)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post11</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=10">Spelforskare och våffla</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 27 nov, 2009 14:08:10</span><br/><p>Chalmers har en monter på Dreamhack där dom visar en automatisk våffel-gräddare. Fem våffeljärn kördes av en snillrik konstruktion som automatiskt hällde smet i järnen, stängde locket, måtte temperaturen i järnet och efter cirak 200 sekunder så öppnades locket hela järnet vändes upp och ner, våfflan ramlade ner på ett transportband och våfflan levererades på en papptallrik. Serverades med jordgubbssylt, som man dock fick lägga på helt manuellt.</p>
+<p>Sedan lyssnade vi på en spelforskare som berättade om hur spel ar utvecklats och hur framtiden ser ut. Rätt intressant. En trend är att gränsen mellan spel och verklighet suddas ut. Där man via mobiler och PDA får olika typer av uppdrag i verklig milj. En anna trend är att nya grupper som inte varit intresserade av tradiotinella datorspel nu iom Wii's inträde börjat köra olika träningsövningar i "spel"-form.</p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=10#comment">Kommentarer(0)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post10</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=9">Dreamstore</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 27 nov, 2009 11:55:24</span><br/><p>Det bkev ett besök på Dreamstore, en tillfälligt affär som säljer datorprylar. Det var kö in, inte lika lång som på torsdag kväll men ändå lite väntetid. Vi köpte en musmatta och batterier. Sedan löste vi ut varsin T-shirt som vi bokat på internet.</p>
+<p>Därefter gick vi runt lite och kollade. Spelade lite Risen. Sen blev Ludvig sugen på våffla men det var elavbrott hoss våffelproducenten.</p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=9#comment">Kommentarer(0)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post9</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=8">God Morgon</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 27 nov, 2009 09:13:24</span><br/><p>En ny dag !</p>
+<p>I dag ska vi ta oss lite mer tid att gå runt att titta bland alla utställare och i Dreamstore. Dreamstore är en datoraffär som temporärt flyttat till Dreamhack. Bland utställarna noterar man Norton, Telia, Ericsson, Blizzard, Försvaret, Rädda Barnen, John Bauer Gymnasiet, Razer, Asus med många mera.</p>
+<p>Natten var bra på Scandic Portalen. Riktig lyx-Dreamhack med andra ord. Inte som en del andra som bara har en kudde med sig och lägger den på tangentbordet när orken tryter. Vi är som sagt utsövda och mätta efter en natt på hotell och en rejäl frukost.</p>
+<p>Vi har börjat dan med att få igång datorerna, installerar en gratis beta, RUSE. Den funkade dock inte på den bärbara. Få se om den funkar på Ludvigs dator.</p>
+<p>Allt känns faktiskt lite lugnare iår. Vet inte om det beror på Dreamhack eller på oss.</p>
+<p>Ett av dagens uppdrag är att hitta en mössförsäljare och köpa en mössa till Lovisa. Än har vi inte gett upp hoppet.</p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=8#comment">Kommentarer(1)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post8</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=7">Refrängen</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 26 nov, 2009 23:01:32</span><br/>Dag att börja logga ur och dra sig mot hotellet efter ytterligare en session med Ludenben o Bizy. Det var questande i Thousand Needles. Bizy dingade 28.<br/><br/>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=7#comment">Kommentarer(2)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post7</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=6">Instans</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 26 nov, 2009 21:08:04</span><br/><p>Kört RFK med Ludenben o Bizy. Ludenben som stabil tank och Bizy som livräddande helare. Dessutom tre andra varav en bara sabbade så det blev faktisk enklare när han la av och vi blev bara fyra.</p>
+<p>Dessutom har vi hunnit med att äta en hamburgertallrik och kollat runt lite mer.</p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=6#comment">Kommentarer(4)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post6</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=5">Rundtur</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 26 nov, 2009 17:36:45</span><br/><p>Vasrit runt i hallarna och kollat läget. Det är massor med deltagare, utställare och möjligheter att prova på spel.</p>
+<p> </p>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=5#comment">Kommentarer(2)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post5</span></li></ul></div><!-- End of post --><div class="post"><h2><a href="dhw09?Home&amp;post=4">Igång</a></h2><a class="categoryAnchor" href="dhw09?Home&amp;category=0">DHW09</a><span class="time">Skapad av <a href="dhw09?Home&amp;user=0">Göran</a> 26 nov, 2009 16:18:35</span><br/>Nu är det ingvigt, ljuset släckt och lasershowen genomförd.<br/><br/>
+<ul><li class="commentLi"><a class="commentAnchor" href="dhw09?NewComment&amp;post=4#comment">Kommentarer(0)</a><span class="time niceURL">http://dhw09.larsendahl.se/#post4</span></li></ul></div><!-- End of post --><table id="jsShareMenu" style="display:none;"><tr><th colspan="2">Choose site to share content on</th></tr><tr><td><a href="#" class="facebook" onclick="posts.Share('facebook');return false;">Facebook</a></td><td><a href="#" class="linkedin" onclick="posts.Share('linkedin');return false;">LinkedIn</a></td></tr><tr><td><a href="#" class="myspace" onclick="posts.Share('myspace');return false;">Myspace</a></td><td><a href="#" class="twitter" onclick="posts.Share('twitter');return false;">Twitter</a></td></tr></table></div><!-- End of main div -->
+<div id="menuDiv" class="aboutMeRemoved"><div id="categoriesDiv" class="menuBox"><h4>Kategorier</h4><hr/><ul><li><a href="dhw09?Home&amp;category=0">DHW09 (19)</a></li><li><a href="dhw09?Home&amp;category=1">DHW10 (1)</a></li></ul></div><div id="prevPostsDiv" class="menuBox"><h4>Tidigare inlägg</h4><hr/><ul><li><a href="dhw09?Home&amp;post=3">Boost 2</a><br/><span class="time">26 nov, 2009 16:05:26</span></li><li><a href="dhw09?Home&amp;post=2">Boost 1</a><br/><span class="time">26 nov, 2009 15:23:49</span></li><li><a href="dhw09?Home&amp;post=1">Hungrig</a><br/><span class="time">26 nov, 2009 13:54:19</span></li><li><a href="dhw09?Home&amp;post=0">På Plats</a><br/><span class="time">26 nov, 2009 13:37:12</span></li></ul></div><div id="loginDiv" class="menuBox"><h4 id="loginHeading">Logga in</h4><hr/><form name="formLogin" action="" method="post"><label for="emailInput">E-post:</label><br/><input class="textfield" type="text" name="loginEmail" id="emailInput" value=""/><br/><label for="pwdInput">Lösenord:</label><br/><input class="textfield" type="password" name="loginPassword" id="pwdInput"/><br/><label for="rememberInput" title="Rekommenderas ej för publika datorer">Kom ihåg:</label><input type="checkbox" name="loginRemember" id="rememberInput" value="true"  title="Rekommenderas ej för publika datorer"/><br/><input class="button" type="submit" value="Logga in"/><br/><a id="forgotPwdAnchor" href="?ResetPassword" onclick="window.open('?ResetPassword', 'ResetPassword', 'toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, width=445, height=250'); return false;">Glömt ditt lösenord?</a></form></div><a id="rssAnchor" href="dhw09?Feed" title="RSS 2.0"><img src="http://ilostatic.one.com/iloapp/blog/images/system/rss.gif" alt="RSS Feed"/></a><a id="mobileSite" href="dhw09?Home&mobile" title="Mobile Site" style="padding-left: 7px" target="_top"><img src="http://ilostatic.one.com/iloapp/blog/images/system/cellphone-icon.png" alt="Mobile Site"/></a></div><!-- End of menu div --><div id="footerDiv"><a class="niceURL" id="prevPageLink" href="dhw09?Home&amp;page=1">&#xab;&nbsp;Föregående</a><a class="niceURL" id="nextPageLink" href="dhw09?Home&amp;page=3">Nästa&nbsp;&#xbb;</a></div><!-- Footer div --></div><!-- End of container --></body></html>

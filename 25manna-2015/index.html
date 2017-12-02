@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>25manna 2015 | Ludvig Larsendahl</title>
+  <link rel="stylesheet" href="./style.css">
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='icon' href='25manna.png' type='image/png'>
+  <meta property='og:image' content='http://cdn.beseen.io/25manna/vid/thumb.png'>
+  <meta property='og:url' content='http://larsendahl.se/25manna-2015'>
+  <meta property='og:title' content='25manna-filmen 2015'>
+  <meta property='og:description' content='Se filmen på larsendahl.se/25manna-2015! 25manna är en av världens största stafetter, där världens bästa orienteringsklubb ska koras. Detta görs genom klubblag bestående av 25 personer. Med cirka 360 startande lag innebär detta att 9000 löpare deltar och uppemot 12000 personer passerar arenan under tävlingsdagen, inkluderat motionslöpare, lagledare, supportrar och övrig publik.'>
+  <script>
+    window.location.href = "https://player.vimeo.com/video/142140076";
+  </script>
+</head>
+<body>
+  <section class="wrapper">
+    <h1>Se <img width="120px" style="vertical-align:middle" src="25manna.png" alt="25manna">-filmen i full kvalité här!</h1>
+
+    <div class="self-hosted">
+      <video id="selfHostedVideo" controls="controls" poster="http://cdn.beseen.io/25manna/vid/thumb.png">
+        <source src="http://cdn.beseen.io/25manna/vid/vimeo720p.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    
+      <div class="clearfix">
+        <div class="info clearfix">
+          <p><img src="info.png" alt="Information: "></p>
+          <p>Full kvalité tar upp väldigt mycket bandbredd, har du inte en snabb internetanslutning kolla gärna i halv kvalité eller på <a href="https://vimeo.com/142140076">Vimeo</a>.</p>
+        </div>
+
+        <select id="qualitySelect">
+          <option value="https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/3428/5/142140076/426467946.mp4?token=561c03a1_0x9e3bcb6568d6b3958f0c73c942c05670b7b4a187">Vimeo (480p)</option> 
+          <option selected="selected" value="http://cdn.beseen.io/25manna/vid/vimeo720p.mp4">Halv Kvalité (720p)</option>
+          <option value="http://cdn.beseen.io/25manna/vid/1080p.mp4">Full Kvalité (1080p)</option>
+        </select>
+      </div>
+
+    </div>
+
+    <div class="vimeo">
+      <h3>Se den på Vimeo i HD:</h3>
+      <iframe src="https://player.vimeo.com/video/142140076" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  
+
+    <h3 class="cred"><a href="http://ghostops.nu">Av Ludvig Larsendahl</a></h3>
+
+  </section>
+
+  
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $(".self-hosted").prepend("<div class='mobileNotice'>Mobila enheter rekommenderas att se videon på <a href='https://vimeo.com/142140076'>Vimeo</a></div>");
+      }
+    });
+
+    $("#qualitySelect").on("change", function(){
+      var src = $(this).val();
+      $("#selfHostedVideo").find("source").attr("src", src);
+      $("#selfHostedVideo")[0].load();
+    });
+
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE post SYSTEM "/usr/lib/onecom-webapps/ilogalleryblog/common/xml/post.dtd">
+<post postid="2">
+<subject>Hur Fan får man PaX att fungera?</subject>
+<author authorid="11">Ludvig</author>
+<timestamp>1350319319</timestamp>
+<category categoryid="0">Hax</category>
+<tags/>
+<content>Det är en gävligt bra fråga, hur får man PaX att fungera på din dator?&lt;p&gt;Ett helvette med många Citrix klienter är att man måste in i IE för att tillåta Pax att köras på din dator. Men hur gör man det då? Jo, följ bara stegen nedanför bild för bild så kommer allting att ordna sig!&lt;/p&gt;&lt;p&gt;&lt;b&gt;1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="pax?ShowFile&amp;amp;image=1350318793.png"/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="pax?ShowFile&amp;amp;image=1350318816.png"/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="pax?ShowFile&amp;amp;image=1350318837.png"/&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;4&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="pax?ShowFile&amp;amp;image=1350318856.png"/&gt;&lt;/p&gt;&lt;p&gt;Så, nu är det lilla problemet löst!&lt;/p&gt;&lt;p&gt;Nu så återstår problemet att du måste öppna IE var ända gång du vill in på PaX! Och det är ett gävla slöseri med tid! Så för att lösa det lilla problemet kan du ladda ned mitt lilla program som startar PaX med ett ända klick!&lt;/p&gt;&lt;p&gt;Länk:&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.mediafire.com/download.php?sma3wc1yot08p0d" target="_blank"&gt;http://www.mediafire.com/download.php?sma3wc1yot08p0d&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
+</content>
+<comments/>
+<images><image imageid="0" galleryindex="" groupnumber=""><src>1350318793.png</src><type>png</type><width>400</width><height>225</height></image><image imageid="1" galleryindex="" groupnumber=""><src>1350318816.png</src><type>png</type><width>400</width><height>225</height></image><image imageid="2" galleryindex="" groupnumber=""><src>1350318837.png</src><type>png</type><width>400</width><height>225</height></image><image imageid="3" galleryindex="" groupnumber=""><src>1350318856.png</src><type>png</type><width>400</width><height>225</height></image></images>
+<files/>
+</post>

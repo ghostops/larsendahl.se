@@ -1,0 +1,25 @@
+/* XML CSS */
+
+root {
+	
+	background: url(bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+post { display: block; border: solid 2px #7f8c8d; width: 75%; margin: 2% auto; background-color: #FFF; }
+
+subject {  display: block; font-size: 28px; font-family: Helvetica; color: #c0392b; }
+
+author { display: block; }
+
+category { display: block; font-size: 12px; }
+
+content { font-size: 18px; display: block; border-top: dotted 2px; font-family: serif; padding: 5px; }
+
+comments { display: block; border-top: double; padding: 5px; }
+
+timestamp { display: none; }
+
+images { display: none; }

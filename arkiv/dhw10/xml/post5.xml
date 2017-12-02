@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE post SYSTEM "/usr/lib/onecom-webapps/ilogalleryblog/common/xml/post.dtd">
+<post postid="5">
+<subject>Bilder</subject>
+<author authorid="0">Göran</author>
+<timestamp>1290715829</timestamp>
+<category categoryid="0">DHW10</category>
+<tags/>
+<content>&lt;img src="dhw10?ShowFile&amp;amp;temp=true&amp;amp;image=g0-1290715804.jpeg"/&gt;&lt;br/&gt;&lt;br/&gt;
+</content>
+<comments/>
+<images><image imageid="0" galleryindex="1" groupnumber="0"><src>m1290715829.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="1" galleryindex="2" groupnumber="0"><src>m1290715830.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="2" galleryindex="3" groupnumber="0"><src>m1290715831.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="3" galleryindex="4" groupnumber="0"><src>m1290715832.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="4" galleryindex="5" groupnumber="0"><src>m1290715833.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="5" galleryindex="6" groupnumber="0"><src>m1290715834.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="6" galleryindex="7" groupnumber="0"><src>m1290715835.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="7" galleryindex="8" groupnumber="0"><src>m1290715836.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="8" galleryindex="9" groupnumber="0"><src>m1290715837.jpg</src><type>jpg</type><width>400</width><height>265</height></image><image imageid="9" galleryindex="10" groupnumber="0"><src>m1290715838.jpg</src><type>jpg</type><width>400</width><height>265</height></image></images>
+<files/>
+</post>

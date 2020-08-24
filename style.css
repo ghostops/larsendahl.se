@@ -1,0 +1,115 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+		
+body {
+    background: url(./images/1r.jpg);
+}
+
+.center {
+    position: absolute;
+}
+
+h1 {
+    font-family: 'Oswald', Arial, Helvetica, serif;
+    letter-spacing: 8px;
+    font-size: 102px;
+    text-shadow: 1px 1px 5px black;
+    color: white;
+    text-align: center;
+    border: 3px dotted white;
+    padding-left: 20px;
+    padding-right: 20px;
+    bottom: 0%;
+    left: 5%;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    display: inline;
+
+}
+
+a {
+    color: #FFF;
+    font-size: 42px;
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+
+a:hover {
+    opacity: .5;
+}
+
+#arkiv {
+    bottom: 5px;
+    left: 80px;
+}
+        
+.curl {
+	width:120px;
+	height:120px;
+	position: absolute;
+	top:0;
+	left:0;
+	background : 
+		linear-gradient(
+			135deg, 
+			#fff, 
+			#f3f3f3 45%, 
+			#ddd 50%, 
+			#aaa 50%, 
+			#bbb 56%, 
+			#ccc 62%, 
+			#f3f3f3 80%,
+			#fff 100%
+		);
+	box-shadow : 0 0 10px rgba(0, 0, 0, .5);
+	transition: all .5s ease;
+}
+.curl:before,
+.curl:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	left: 12.5%;
+	bottom: 5.8%;
+	width: 70%;
+	max-width: 300px;
+	max-height: 100px;
+	height: 55%;
+	box-shadow: 0 12px 15px rgba(0, 0, 0, .3);
+	transform: skew(-10deg) rotate(-6deg);
+}
+.curl:after {
+	left: auto;
+	right: 5.8%;
+	bottom: auto;
+	top: 14.16%;
+	transform: skew(-15deg) rotate(-84deg);
+}
+
+.curl:hover {
+	width: 500px;
+	height: 300px;
+}
+.curl:hover:before,
+.curl:hover:after {
+	box-shadow: 0 24px 30px rgba(0, 0, 0, .3);
+}
+
+.curl-bg {
+    display: block;
+    visibility: hidden;
+    background: url(./images/ludvig.png);
+    height: 300px;
+    width: 500px;
+    opacity: 0;
+    transition: opacity .1s ease-out;
+}
+
+.curl:hover .curl-bg {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 1s ease-in;
+}
